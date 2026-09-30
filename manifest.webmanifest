@@ -1,0 +1,9 @@
+{
+  "name": "莉音 - AIコンパニオン",
+  "short_name": "莉音",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7f3fa",
+  "theme_color": "#f6efff",
+  "lang": "ja"
+}
